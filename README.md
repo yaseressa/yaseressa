@@ -4,7 +4,7 @@
 
 As a computer scientist, I strongly desire to advance technology and pursue excellence in all my computer-related endeavors. I have a thorough understanding of the complexities involved in each task, from designing compilers to creating database models, and I work to come up with effective and efficient solutions.
 
-   <div align="right">
+   <div align="center">
       <a href="https://github.com/yaseressa?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/yaseressa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=darkblue"/></a>
       <a href="https://github.com/yaseressa?tab=repositories&sort=stargazers">
