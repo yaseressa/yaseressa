@@ -6,7 +6,7 @@
       <a href="https://github.com/yaseressa?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/yaseressa?color=darkgreen&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </div>
-<div align="center" margin='20'>
+<div align="center" style='margin:20;'>
 <img src="https://github.com/yaseressa/yaseressa/blob/main/coding.gif" width="700" />
 </div>
 <p align="center">As a computer scientist, I strongly desire to advance technology and pursue excellence in all my computer-related endeavors. I have a thorough understanding of the complexities involved in each task, from designing compilers to creating database models, and I work to come up with effective and efficient solutions.
