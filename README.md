@@ -1,6 +1,6 @@
 # 👾👾👾 Yaser Issa 👾👾👾
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**Data Scientist and Software Engineer**
 
 As a computer scientist, I strongly desire to advance technology and pursue excellence in all my computer-related endeavors. I have a thorough understanding of the complexities involved in each task, from designing compilers to creating database models, and I work to come up with effective and efficient solutions.
 
